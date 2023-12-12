@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Movie Collection</string>
+    <string name="unable_to_load_data">Unable to load data</string>
+    <string name="retry">Retry</string>
+    <string name="genres">"Genres: %1$s</string>
+    <string name="production">"Production: %1$s"</string>
+    <string name="countries">"Countries: %1$s</string>
 </resources>
