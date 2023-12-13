@@ -1,0 +1,2 @@
+# Movie Collection Sample App
+Application fetches data from The Movie Database and uses TMDB API to fetch movies' data. To build and run this sample application, you need to register own application on [TMBD Portal](https://www.themoviedb.org/settings/api) and request API Access Token.
